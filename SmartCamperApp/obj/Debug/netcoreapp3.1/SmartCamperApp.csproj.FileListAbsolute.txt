@@ -1,0 +1,13 @@
+C:\Programming\C# Smart App\SmartCamperApp\SmartCamperApp\bin\Debug\netcoreapp3.1\SmartCamperApp.exe
+C:\Programming\C# Smart App\SmartCamperApp\SmartCamperApp\bin\Debug\netcoreapp3.1\SmartCamperApp.deps.json
+C:\Programming\C# Smart App\SmartCamperApp\SmartCamperApp\bin\Debug\netcoreapp3.1\SmartCamperApp.runtimeconfig.json
+C:\Programming\C# Smart App\SmartCamperApp\SmartCamperApp\bin\Debug\netcoreapp3.1\SmartCamperApp.runtimeconfig.dev.json
+C:\Programming\C# Smart App\SmartCamperApp\SmartCamperApp\bin\Debug\netcoreapp3.1\SmartCamperApp.dll
+C:\Programming\C# Smart App\SmartCamperApp\SmartCamperApp\bin\Debug\netcoreapp3.1\SmartCamperApp.pdb
+C:\Programming\C# Smart App\SmartCamperApp\SmartCamperApp\obj\Debug\netcoreapp3.1\SmartCamperApp.csprojAssemblyReference.cache
+C:\Programming\C# Smart App\SmartCamperApp\SmartCamperApp\obj\Debug\netcoreapp3.1\SmartCamperApp.AssemblyInfoInputs.cache
+C:\Programming\C# Smart App\SmartCamperApp\SmartCamperApp\obj\Debug\netcoreapp3.1\SmartCamperApp.AssemblyInfo.cs
+C:\Programming\C# Smart App\SmartCamperApp\SmartCamperApp\obj\Debug\netcoreapp3.1\SmartCamperApp.csproj.CoreCompileInputs.cache
+C:\Programming\C# Smart App\SmartCamperApp\SmartCamperApp\obj\Debug\netcoreapp3.1\SmartCamperApp.dll
+C:\Programming\C# Smart App\SmartCamperApp\SmartCamperApp\obj\Debug\netcoreapp3.1\SmartCamperApp.pdb
+C:\Programming\C# Smart App\SmartCamperApp\SmartCamperApp\obj\Debug\netcoreapp3.1\SmartCamperApp.genruntimeconfig.cache
